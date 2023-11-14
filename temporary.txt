@@ -1,0 +1,12 @@
+'countryid', 'country', 'year', 'ama_exchange_rate',
+'imf_based_exchange_rate', 'population', 'currency', 'per_capita_gni',
+'agriculture_hunting_forestry_fishing', 'changes_in_inventories',
+'construction', 'exports_of_goods_and_services',
+'final_consumption_expenditure',
+'general_government_final_consumption_expenditure',
+'gross_capital_formation', 'gross_fixed_capital_formation',
+'household_consumption_expenditure', 'imports_of_goods_and_services',
+'manufacturing', 'mining_manufacturing_utilities', 'other_activities',
+'total_value_added', 'transport_storage_and_communication',
+'wholesale_retail_trade_restaurants_and_hotels',
+'gross_national_income', 'gross_domestic_product'
